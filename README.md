@@ -6,7 +6,7 @@ A hands-on Site Reliability Engineering (SRE) demo environment built using Docke
 
 ## About EduArn
 
-EduArn provides industry-focused technical training for individuals and organizations through instructor-led online, classroom, and corporate learning programs. Training is designed around practical labs, real-world projects, certification preparation, and modern DevOps, Cloud, AI, and Software Engineering practices. EEduArn LMS+1
+EduArn provides industry-focused technical training for individuals and organizations through instructor-led online, classroom, and corporate learning programs. Training is designed around practical labs, real-world projects, certification preparation, and modern DevOps, Cloud, AI, and Software Engineering practices. EduArn LMS+1
 
 
 Learn more at:
