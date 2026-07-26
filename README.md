@@ -261,19 +261,19 @@ After completing this demo, learners will understand:
 
 Website
 
-Eduarn Official Websiteeduarn.com
+Eduarn Official eduarn.com
 
 Corporate & Retail Training
 
-Eduarn Training Programseduarn.com
+Eduarn Training eduarn.com
 
 About Eduarn
 
-About Eduarneduarn.com
+About eduarn.com
 
 Contact
 
-Contact Eduarneduarn.com
+Contact eduarn.com
 
 ---
 
