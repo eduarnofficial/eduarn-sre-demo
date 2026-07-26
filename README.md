@@ -1,17 +1,17 @@
-# Eduarn SRE Demo – Prometheus, Grafana, NGINX & Chaos Engineering
+# EduArn SRE Demo – Prometheus, Grafana, NGINX & Chaos Engineering
 
 A hands-on Site Reliability Engineering (SRE) demo environment built using Docker Compose. This project demonstrates monitoring, observability, service level indicators (SLIs), service level objectives (SLOs), error budget concepts, and chaos engineering using Prometheus, Grafana, NGINX, Node Exporter, cAdvisor, and Pumba.
 
 ---
 
-## About Eduarn
+## About EduArn
 
-Eduarn provides industry-focused technical training for individuals and organizations through instructor-led online, classroom, and corporate learning programs. Training is designed around practical labs, real-world projects, certification preparation, and modern DevOps, Cloud, AI, and Software Engineering practices. EEduArn LMS+1
+EduArn provides industry-focused technical training for individuals and organizations through instructor-led online, classroom, and corporate learning programs. Training is designed around practical labs, real-world projects, certification preparation, and modern DevOps, Cloud, AI, and Software Engineering practices. EEduArn LMS+1
 
 
 Learn more at:
 
-Eduarn Official Websiteeduarn.com
+EduArn Official Websiteeduarn.com
 
 ---
 
